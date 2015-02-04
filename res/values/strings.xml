@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aadhaar Authenticator</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="verify_button">Verify</string>
+    <string name="aadhaar_number_label">Aadhaar Number</string>
+    <string name="aadhaar_number_hint">Enter your aadhaar number</string>
+    <string name="name_label">Name</string>
+    <string name="name_hint">enter name as per aadhaar</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="otp">Otp</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="request_for_otp">Request for OTP</string>
+    <string name="title_activity_permanent_contact_register">Register for a PAC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Permanent Address Code</string>
+    <string name="get_a_new_address_code">Get a new address code</string>
+    <string name="manage_address">Manage address</string>
+    <string name="name">Name</string>
+    <string name="street">Street</string>
+    <string name="building">Building</string>
+    <string name="post_office">Post Office</string>
+    <string name="region">Village/Town/City</string>
+    <string name="district">District</string>
+    <string name="state">State</string>
+    <string name="pincode">Pincode</string>
+    <string name="title_activity_login">Login</string>
+    <string name="this_is_permanent_contact_code">Your permanent contact code is</string>
+    <string name="enter_permanent_contact_code">Enter permanent contact code</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="login">Login</string>
+    <string name="title_activity_manage_address">Manage Address</string>
+
+</resources>
